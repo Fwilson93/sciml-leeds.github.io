@@ -180,4 +180,13 @@
     - physics-informed neural networks
   applications:
     - Weather nowcasting
-    - parametrization of atmospheric processes		    
+    - parametrization of atmospheric processes		 
+    
+- name: Fred Wilson-Spencer		
+  social:
+    website: https://environment.leeds.ac.uk/see/staff/9470/dr-alfred-wilson
+    github: Fwilson93
+  techniques:
+    - Physics-Informed Neural Networks
+  applications:
+    - Atomistic Simulations
